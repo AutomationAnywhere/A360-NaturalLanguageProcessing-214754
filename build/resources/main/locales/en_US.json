@@ -1,0 +1,22 @@
+{
+	"label": "Natural Language Processing",
+	"description": "Provides operations for local NLP",
+	"SentimentAnalysis.label": "Sentiment Analysis",
+	"SentimentAnalysis.description": "Detect sentiment of text",
+	"SentimentAnalysis.node_label": "Detect sentiment of text",
+	"SentimentAnalysis.return_label": "Sentiment Score",
+	"SentimentAnalysis.return_label.description":"Closer to 1 is positive, Closer to -1 is negative",
+	"SentimentAnalysis.textBody.label": "Text to Analyze",
+	"NamedEntityRecognition.label": "Entity Recognition",
+	"NamedEntityRecognition.description": "Named Entity Recognition",
+	"NamedEntityRecognition.node_label": "Named Entity Recognition",
+	"NamedEntityRecognition.return_label": "Entity Recogition Table",
+	"NamedEntityRecognition.return_label.description":"Returned as table with id, word, entity",
+	"NamedEntityRecognition.textBody.label": "Text to Analyze",
+	"PartsOfSpeech.label": "Parts of Speech Detection",
+	"PartsOfSpeech.description": "Detect parts of speech in text",
+	"PartsOfSpeech.node_label": "Detect parts of speech in text",
+	"PartsOfSpeech.return_label": "Parts of Speech",
+	"PartsOfSpeech.return_label.description":"Returned as table with id, word, entity",
+	"PartsOfSpeech.textBody.label": "Text to Analyze"
+}
